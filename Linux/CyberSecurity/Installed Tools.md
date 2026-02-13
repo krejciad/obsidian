@@ -43,3 +43,5 @@
 - nikto - [[nikto]]
 - radare2 - [[radare2]]
 - ghidra - [[ghidra]]
+
+All tools will get own manual.
